@@ -107,11 +107,12 @@ body {
   width: 2%;
 }
 
-/*.toggle-container .star-medium {
+.toggle-container .star-medium {
   height: 6%;
   width: 3%;
 }
-.toggle-container .star-large {
+
+/*.toggle-container .star-large {
   height: 8%;
   width: 4%;
 }
