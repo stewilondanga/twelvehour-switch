@@ -166,12 +166,12 @@ body {
   transform: rotate(90deg);
 }
 
-/*.toggle-container-day {
+.toggle-container-day {
   background: #9FE4FC;
   border-color: #86C4D8;
 }
 
-.off {
+/*.off {
   background: #FAFAFA !important;
   transition: background .5s ease 0s;
 }
