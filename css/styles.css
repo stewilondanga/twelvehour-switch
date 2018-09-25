@@ -70,11 +70,12 @@ body {
   width: 40%;
 }
 
-/*.toggle-container .toggle-handle .crater-two {
+.toggle-container .toggle-handle .crater-two {
   right: 6%;
   top: 6%;
 }
-.toggle-container .toggle-handle .crater-three {
+
+/*.toggle-container .toggle-handle .crater-three {
   right: 24%;
   bottom: 10%;
   height: 30%;
