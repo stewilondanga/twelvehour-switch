@@ -181,14 +181,14 @@ body {
   transform: scale(0) !important;
 }
 
-/*.crater-day {
+.crater-day {
   width: 0% !important;
   height: 0% !important;
   border: 0px solid transparent !important;
   transition: height .5s ease 0s, width .5s ease 0s, border .5s ease 0s;
 }
 
-.cloud-day {
+/*.cloud-day {
   opacity: 1 !important;
   left: 40% !important;
 }
