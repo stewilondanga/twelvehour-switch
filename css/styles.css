@@ -153,13 +153,13 @@ body {
   transition-delay: .15s;
 }
 
-/*.toggle-container .star-seven {
+.toggle-container .star-seven {
   top: 70%;
   left: 82%;
   transition-delay: .1s;
 }
 
-.toggle-handle-day {
+/*.toggle-handle-day {
   left: 144.48px !important;
   background: #FFE06E !important;
   border-color: #E2C448 !important;
