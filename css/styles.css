@@ -135,12 +135,13 @@ body {
   transition-delay: .3s;
 }
 
-/*.toggle-container .star-four {
+.toggle-container .star-four {
   top: 56%;
   left: 68%;
   transition-delay: .25s;
 }
-.toggle-container .star-five {
+
+/*.toggle-container .star-five {
   top: 8%;
   left: 76%;
   transition-delay: .2s;
