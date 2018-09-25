@@ -176,12 +176,12 @@ body {
   transition: background .5s ease 0s;
 }
 
-/*.star-day {
+.star-day {
   opacity: 0 !important;
   transform: scale(0) !important;
 }
 
-.crater-day {
+/*.crater-day {
   width: 0% !important;
   height: 0% !important;
   border: 0px solid transparent !important;
