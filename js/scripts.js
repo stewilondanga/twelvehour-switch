@@ -9,9 +9,9 @@ var navigate = (function() {
 darkSide.src = "https://s3-us-west-2.amazonaws.com/s.cdpn.io/480623/vadar_breathing.mp3";
 
 var lightSide = new Audio();
-/*lightSide.src = "https://s3-us-west-2.amazonaws.com/s.cdpn.io/480623/yoda_use_the_force.mp3";
+lightSide.src = "https://s3-us-west-2.amazonaws.com/s.cdpn.io/480623/yoda_use_the_force.mp3";
 
-var clickCount = 0;
+/*var clickCount = 0;
 
 $('.toggle-container').on('click', function(){
   $('.toggle-handle').toggleClass('toggle-handle-day');
