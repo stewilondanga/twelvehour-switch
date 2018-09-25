@@ -159,14 +159,14 @@ body {
   transition-delay: .1s;
 }
 
-/*.toggle-handle-day {
+.toggle-handle-day {
   left: 144.48px !important;
   background: #FFE06E !important;
   border-color: #E2C448 !important;
   transform: rotate(90deg);
 }
 
-.toggle-container-day {
+/*.toggle-container-day {
   background: #9FE4FC;
   border-color: #86C4D8;
 }
