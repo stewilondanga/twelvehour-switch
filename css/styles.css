@@ -24,8 +24,6 @@ body {
   height: 1.5em;
 }
 
-/*
-
 .toggle-container {
   position: absolute;
   top: 0;
@@ -42,7 +40,8 @@ body {
   cursor: pointer;
   transition: border-color .5s ease 0s, background .5s ease 0s;
 }
-.toggle-container .toggle-handle {
+
+/*.toggle-container .toggle-handle {
   position: absolute;
   height: 109.998px;
   width: 109.998px;
