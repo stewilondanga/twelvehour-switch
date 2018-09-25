@@ -188,12 +188,12 @@ body {
   transition: height .5s ease 0s, width .5s ease 0s, border .5s ease 0s;
 }
 
-/*.cloud-day {
+.cloud-day {
   opacity: 1 !important;
   left: 40% !important;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
