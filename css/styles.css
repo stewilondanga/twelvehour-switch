@@ -4,6 +4,11 @@
   box-sizing: border-box;
 }
 
+body {
+  background: #222;
+  transition: background .5s ease 0s;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -28,10 +33,6 @@
 }
 
 
-body {
-  background: #222;
-  transition: background .5s ease 0s;
-}
 
 .toggle-container {
   position: absolute;
