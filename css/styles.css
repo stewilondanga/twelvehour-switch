@@ -75,13 +75,14 @@ body {
   top: 6%;
 }
 
-/*.toggle-container .toggle-handle .crater-three {
+.toggle-container .toggle-handle .crater-three {
   right: 24%;
   bottom: 10%;
   height: 30%;
   width: 30%;
 }
-.toggle-container .mini-cloud {
+
+/*.toggle-container .mini-cloud {
   height: 40%;
   width: auto;
   position: absolute;
