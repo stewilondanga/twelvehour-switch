@@ -82,7 +82,7 @@ body {
   width: 30%;
 }
 
-/*.toggle-container .mini-cloud {
+.toggle-container .mini-cloud {
   height: 40%;
   width: auto;
   position: absolute;
@@ -92,7 +92,8 @@ body {
   z-index: 999;
   transition: opacity .25s ease 0s, left .5s ease 0s;
 }
-.toggle-container .star {
+
+/*.toggle-container .star {
   position: absolute;
   background: #FFFFFF;
   opacity: 1;
