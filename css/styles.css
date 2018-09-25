@@ -63,13 +63,14 @@ body {
   border-radius: 50%;
 }
 
-/*.toggle-container .toggle-handle .crater-one {
+.toggle-container .toggle-handle .crater-one {
   top: 10%;
   left: 3%;
   height: 40%;
   width: 40%;
 }
-.toggle-container .toggle-handle .crater-two {
+
+/*.toggle-container .toggle-handle .crater-two {
   right: 6%;
   top: 6%;
 }
