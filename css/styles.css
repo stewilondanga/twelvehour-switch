@@ -102,11 +102,12 @@ body {
   transition: transform .5s ease;
 }
 
-/*.toggle-container .star-small {
+.toggle-container .star-small {
   height: 4%;
   width: 2%;
 }
-.toggle-container .star-medium {
+
+/*.toggle-container .star-medium {
   height: 6%;
   width: 3%;
 }
