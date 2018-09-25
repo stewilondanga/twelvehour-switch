@@ -1,13 +1,12 @@
 var navigate = (function() {
-	$('.dd').toggle();
-	$('.dd_btn').click(function() {
-		var dataName = $(this).attr('data-name');
-		$('.dd').hide();
-		$('.' + dataName).toggle();
-	});
+  $('.dd').toggle();
+  $('.dd_btn').click(function() {
+    var dataName = $(this).attr('data-name');
+    $('.dd').hide();
+    $('.' + dataName).toggle();
+  });
 })();
-var darkSide = new Audio();
-darkSide.src = "https://s3-us-west-2.amazonaws.com/s.cdpn.io/480623/vadar_breathing.mp3";
+/*darkSide.src = "https://s3-us-west-2.amazonaws.com/s.cdpn.io/480623/vadar_breathing.mp3";
 
 var lightSide = new Audio();
 lightSide.src = "https://s3-us-west-2.amazonaws.com/s.cdpn.io/480623/yoda_use_the_force.mp3";
