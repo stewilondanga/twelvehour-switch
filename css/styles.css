@@ -171,12 +171,12 @@ body {
   border-color: #86C4D8;
 }
 
-/*.off {
+.off {
   background: #FAFAFA !important;
   transition: background .5s ease 0s;
 }
 
-.star-day {
+/*.star-day {
   opacity: 0 !important;
   transform: scale(0) !important;
 }
