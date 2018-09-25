@@ -147,12 +147,13 @@ body {
   transition-delay: .2s;
 }
 
-/*.toggle-container .star-six {
+.toggle-container .star-six {
   top: 40%;
   left: 86%;
   transition-delay: .15s;
 }
-.toggle-container .star-seven {
+
+/*.toggle-container .star-seven {
   top: 70%;
   left: 82%;
   transition-delay: .1s;
