@@ -41,7 +41,7 @@ body {
   transition: border-color .5s ease 0s, background .5s ease 0s;
 }
 
-/*.toggle-container .toggle-handle {
+.toggle-container .toggle-handle {
   position: absolute;
   height: 109.998px;
   width: 109.998px;
@@ -56,7 +56,8 @@ body {
   z-index: 999;
   transition: left .5s ease 0s, background .5s ease 0s, border-color .5s ease 0s, transform .5s ease 0s;
 }
-.toggle-container .toggle-handle .crater {
+
+/*.toggle-container .toggle-handle .crater {
   position: absolute;
   border: 10.0002px solid #E4E9C8;
   border-radius: 50%;
